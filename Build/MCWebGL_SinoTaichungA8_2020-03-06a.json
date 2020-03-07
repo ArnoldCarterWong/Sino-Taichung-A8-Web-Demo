@@ -1,0 +1,16 @@
+{
+"companyName": "Majestic Creations Ltd.",
+"productName": "Sino Taichung A8 WebGL Demo",
+"productVersion": "4.2",
+"dataUrl": "MCWebGL_SinoTaichungA8_2020-03-06a.data.unityweb",
+"wasmCodeUrl": "MCWebGL_SinoTaichungA8_2020-03-06a.wasm.code.unityweb",
+"wasmFrameworkUrl": "MCWebGL_SinoTaichungA8_2020-03-06a.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f4"
+}
